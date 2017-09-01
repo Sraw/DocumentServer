@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="75bf15c8-11cb-4def-bce1-b57e32924e45" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdkjs" afterPath="$PROJECT_DIR$/sdkjs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdkjs/build/Gruntfile.js" afterPath="$PROJECT_DIR$/sdkjs/build/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdkjs/cell/graphics/DrawingContext.js" afterPath="$PROJECT_DIR$/sdkjs/cell/graphics/DrawingContext.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdkjs/cell/view/StringRender.js" afterPath="$PROJECT_DIR$/sdkjs/cell/view/StringRender.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdkjs/common/FontsFreeType/font_map.js" afterPath="$PROJECT_DIR$/sdkjs/common/FontsFreeType/font_map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdkjs/word/Editor/Run.js" afterPath="$PROJECT_DIR$/sdkjs/word/Editor/Run.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +18,8 @@
       <file leaf-file-name="StringRender.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sdkjs/cell/view/StringRender.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12675">
-              <caret line="875" column="53" lean-forward="false" selection-start-line="875" selection-start-column="46" selection-end-line="875" selection-end-column="53" />
+            <state relative-caret-position="12150">
+              <caret line="840" column="37" lean-forward="false" selection-start-line="840" selection-start-column="37" selection-end-line="840" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -40,7 +38,7 @@
       <file leaf-file-name="DrawingDocument.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sdkjs/word/Drawing/DrawingDocument.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="37380">
               <caret line="2522" column="8" lean-forward="false" selection-start-line="2522" selection-start-column="8" selection-end-line="2522" selection-end-column="36" />
               <folding>
                 <element signature="e#157486#158372#0" expanded="false" />
@@ -79,7 +77,7 @@
       <file leaf-file-name="GlobalLoaders.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sdkjs/common/GlobalLoaders.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
+            <state relative-caret-position="10050">
               <caret line="700" column="44" lean-forward="false" selection-start-line="700" selection-start-column="44" selection-end-line="700" selection-end-column="44" />
               <folding />
             </state>
@@ -89,7 +87,7 @@
       <file leaf-file-name="Makefile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/Makefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
+            <state relative-caret-position="2160">
               <caret line="144" column="38" lean-forward="false" selection-start-line="144" selection-start-column="38" selection-end-line="144" selection-end-column="38" />
               <folding />
             </state>
@@ -99,45 +97,12 @@
       <file leaf-file-name="Run.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sdkjs/word/Editor/Run.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="2500" column="107" lean-forward="false" selection-start-line="2500" selection-start-column="94" selection-end-line="2500" selection-end-column="107" />
+            <state relative-caret-position="461">
+              <caret line="2509" column="25" lean-forward="false" selection-start-line="2509" selection-start-column="25" selection-end-line="2509" selection-end-column="25" />
               <folding>
-                <element signature="e#92689#93523#0" expanded="false" />
-                <element signature="e#93586#103559#0" expanded="false" />
-                <element signature="e#103611#109074#0" expanded="false" />
-                <element signature="e#109163#111534#0" expanded="false" />
-                <element signature="e#111582#114882#0" expanded="false" />
+                <element signature="e#88408#90178#0" expanded="false" />
+                <element signature="e#113544#116844#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParagraphContent.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sdkjs/word/Editor/ParagraphContent.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="164" column="90" lean-forward="true" selection-start-line="164" selection-start-column="90" selection-end-line="164" selection-end-column="90" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HtmlPage.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sdkjs/word/Drawing/HtmlPage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49155">
-              <caret line="3307" column="37" lean-forward="false" selection-start-line="3307" selection-start-column="37" selection-end-line="3307" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Paragraph_Recalculate.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sdkjs/word/Editor/Paragraph_Recalculate.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34260">
-              <caret line="2314" column="55" lean-forward="false" selection-start-line="2314" selection-start-column="55" selection-end-line="2314" selection-end-column="55" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -145,8 +110,8 @@
       <file leaf-file-name="DrawingContext.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sdkjs/cell/graphics/DrawingContext.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14055">
-              <caret line="937" column="23" lean-forward="false" selection-start-line="937" selection-start-column="23" selection-end-line="937" selection-end-column="23" />
+            <state relative-caret-position="13590">
+              <caret line="936" column="68" lean-forward="false" selection-start-line="936" selection-start-column="68" selection-end-line="936" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -156,7 +121,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>g_fontapplication</find>
       <find>checkchar</find>
       <find>this.ListName</find>
       <find>ListName</find>
@@ -186,6 +150,7 @@
       <find>CGlobalFontLoader</find>
       <find>ParaRun.prototype.Recalculate_Range</find>
       <find>Recalculate_Range</find>
+      <find>chin</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/web-apps/apps/spreadsheeteditor</dir>
@@ -292,9 +257,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -306,6 +271,19 @@
               <item name="DocumentServer" type="b2602c69:ProjectViewProjectNode" />
               <item name="DocumentServer" type="462c0819:PsiDirectoryNode" />
               <item name="sdkjs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DocumentServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DocumentServer" type="462c0819:PsiDirectoryNode" />
+              <item name="sdkjs" type="462c0819:PsiDirectoryNode" />
+              <item name="cell" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DocumentServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DocumentServer" type="462c0819:PsiDirectoryNode" />
+              <item name="sdkjs" type="462c0819:PsiDirectoryNode" />
+              <item name="cell" type="462c0819:PsiDirectoryNode" />
+              <item name="graphics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DocumentServer" type="b2602c69:ProjectViewProjectNode" />
@@ -438,20 +416,19 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27759916" sideWeight="0.565635" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.49573106" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42122185" sideWeight="0.46264675" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24758843" sideWeight="0.434365" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.49573106" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24758843" sideWeight="0.434365" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27908218" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28228387" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="MaxCompute Job" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="MaxCompute Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.4530416" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="MaxCompute Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -462,6 +439,7 @@
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.4530416" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,12 +476,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="pass tests" />
     <option name="LAST_COMMIT_MESSAGE" value="pass tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="20" />
+      <option name="time" value="21" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -676,13 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitmodules">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sdkjs/cell/.unit-tests/FormulaTests.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -764,7 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3060">
           <caret line="234" column="13" lean-forward="false" selection-start-line="234" selection-start-column="13" selection-end-line="234" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -779,7 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="43140">
           <caret line="2906" column="5" lean-forward="false" selection-start-line="2906" selection-start-column="5" selection-end-line="2906" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,7 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -795,59 +764,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1605">
           <caret line="446" column="49" lean-forward="false" selection-start-line="446" selection-start-column="49" selection-end-line="446" selection-end-column="49" />
-          <folding>
-            <element signature="n#!!block;n#CStream#0" expanded="false" />
-            <element signature="n#!!block;n#CreateDocumentData#0" expanded="false" />
-            <element signature="n#!!block;n#CDrawingObject#0" expanded="false" />
-            <element signature="e#7624#7967#0" expanded="false" />
-            <element signature="n#!!block;n#CDocMeta#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdkjs/cell/graphics/DrawingContext.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14055">
-          <caret line="937" column="23" lean-forward="false" selection-start-line="937" selection-start-column="23" selection-end-line="937" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdkjs/cell/view/StringRender.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12675">
-          <caret line="875" column="53" lean-forward="false" selection-start-line="875" selection-start-column="46" selection-end-line="875" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdkjs/word/Editor/Paragraph_Recalculate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34260">
-          <caret line="2314" column="55" lean-forward="false" selection-start-line="2314" selection-start-column="55" selection-end-line="2314" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdkjs/word/Editor/Paragraph.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16485">
-          <caret line="1129" column="12" lean-forward="false" selection-start-line="1129" selection-start-column="12" selection-end-line="1129" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdkjs/word/Drawing/HtmlPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49155">
-          <caret line="3307" column="37" lean-forward="false" selection-start-line="3307" selection-start-column="37" selection-end-line="3307" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sdkjs/word/Drawing/DrawingDocument.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="37380">
           <caret line="2522" column="8" lean-forward="false" selection-start-line="2522" selection-start-column="8" selection-end-line="2522" selection-end-column="36" />
           <folding>
             <element signature="e#157486#158372#0" expanded="false" />
@@ -884,7 +806,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sdkjs/common/GlobalLoaders.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
+        <state relative-caret-position="10050">
           <caret line="700" column="44" lean-forward="false" selection-start-line="700" selection-start-column="44" selection-end-line="700" selection-end-column="44" />
           <folding />
         </state>
@@ -892,30 +814,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/Makefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
+        <state relative-caret-position="2160">
           <caret line="144" column="38" lean-forward="false" selection-start-line="144" selection-start-column="38" selection-end-line="144" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdkjs/word/Editor/Paragraph.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16485">
+          <caret line="1129" column="12" lean-forward="false" selection-start-line="1129" selection-start-column="12" selection-end-line="1129" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdkjs/cell/view/StringRender.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12150">
+          <caret line="840" column="37" lean-forward="false" selection-start-line="840" selection-start-column="37" selection-end-line="840" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdkjs/cell/graphics/DrawingContext.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13590">
+          <caret line="936" column="68" lean-forward="false" selection-start-line="936" selection-start-column="68" selection-end-line="936" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdkjs/word/Editor/Paragraph_Recalculate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2314" column="55" lean-forward="false" selection-start-line="2314" selection-start-column="55" selection-end-line="2314" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdkjs/word/Drawing/HtmlPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3307" column="37" lean-forward="false" selection-start-line="3307" selection-start-column="37" selection-end-line="3307" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sdkjs/word/Editor/ParagraphContent.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="164" column="90" lean-forward="true" selection-start-line="164" selection-start-column="90" selection-end-line="164" selection-end-column="90" />
-          <folding />
+        <state relative-caret-position="15">
+          <caret line="164" column="90" lean-forward="false" selection-start-line="164" selection-start-column="90" selection-end-line="164" selection-end-column="90" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sdkjs/word/Editor/Run.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="2500" column="107" lean-forward="false" selection-start-line="2500" selection-start-column="94" selection-end-line="2500" selection-end-column="107" />
+        <state relative-caret-position="461">
+          <caret line="2509" column="25" lean-forward="false" selection-start-line="2509" selection-start-column="25" selection-end-line="2509" selection-end-column="25" />
           <folding>
-            <element signature="e#92689#93523#0" expanded="false" />
-            <element signature="e#93586#103559#0" expanded="false" />
-            <element signature="e#103611#109074#0" expanded="false" />
-            <element signature="e#109163#111534#0" expanded="false" />
-            <element signature="e#111582#114882#0" expanded="false" />
+            <element signature="e#88408#90178#0" expanded="false" />
+            <element signature="e#113544#116844#0" expanded="false" />
           </folding>
         </state>
       </provider>
